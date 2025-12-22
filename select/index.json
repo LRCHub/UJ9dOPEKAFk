@@ -1,32 +1,24 @@
 {
   "version": 1,
-  "base_track": "†ザ・V系っぽい曲†",
+  "base_track": "†ザ・V系っぽい曲†(生)",
   "base_artist": "ゴールデンボンバー",
-  "createdAt": "2025-12-15T09:41:59.341317Z",
+  "createdAt": "2025-12-22T18:10:00.720390Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "†ザ・V系っぽい曲† - The Vkei ppoi kyoku",
-      "artist": "Golden Bomber",
-      "has_synced": true,
-      "path": "select/01_†ザ・V系っぽい曲†_-_The_Vkei_ppoi_kyoku_Golden_Bomber.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
       "title": "The Vkeippoi Kyoku (†ザ・V系っぽい曲†（生）)",
       "artist": "Golden Bomber (ールデンボンバー)",
       "has_synced": true,
-      "path": "select/02_The_Vkeippoi_Kyoku_(†ザ・V系っぽい曲†(生))_Golden_Bomber_(ールデンボンバー).lrc"
+      "path": "select/01_The_Vkeippoi_Kyoku_(†ザ・V系っぽい曲†(生))_Golden_Bomber_(ールデンボンバー).lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "†ザ・V系っぽい曲†",
+      "title": "†ザ・V系っぽい曲†(生)",
       "artist": "ゴールデンボンバー",
       "has_synced": false,
-      "path": "select/pl_01_†ザ・V系っぽい曲†_ゴールデンボンバー.txt"
+      "path": "select/pl_01_†ザ・V系っぽい曲†(生)_ゴールデンボンバー.txt"
     }
   ]
 }
